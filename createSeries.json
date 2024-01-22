@@ -1,0 +1,12 @@
+{
+    "friendlyName": "SMJan20",
+    "description": "SaltmineTesting",
+    "requirementYear": 2024,
+    "launchDate": {
+        "year": 2024,
+        "month": 11,
+        "day": 11
+    },
+    "marketVolume": "20001",
+    "socChipset": "socChipsets/6326"
+}

@@ -1,0 +1,132 @@
+[{
+    "source": {
+        "deviceModels": [{
+            "brand": "Samsung",
+            "model": "Funny",
+            "type": "TV",
+            "displayType": "LCD",
+            "outputResolution": "3840x2160",
+            "displayResolution": "3840x2160",
+            "viewportResolution": "3840x2160",
+            "orientationCapabilities": ["LANDSCAPE"],
+            "maxFrameRate": "60",
+            "av1": "LEVEL_4_1",
+            "audioDecoders": ["AAC_LC"],
+            "supportedUserInputMethods": ["REMOTE"],
+            "accessibilityFeatures": ["HIGH_CONTRAST"],
+            "voiceAssistants": ["VOICE_ASSISTANT_AMAZON_ALEXA"],
+            "allocatedSystemStorage": "124",
+            "allocatedSystemMemory": "128",
+            "dialVersion": "VERSION_2_1",
+            "openGlEsVersion": "VERSION_2_0",
+            "widevineResourceRatingTier": "UNSUPPORTED_TIER",
+            "oemCryptoVersion": "UNSUPPORTED_OEM_CRYPTO_VERSION",
+            "hdcpVersion": "VERSION_2_2",
+            "hdmiInterfaceVersion": "VERSION_2_1",
+            "dmipsRating": "0",
+            "gpuPixelFillRate": "0",
+            "gpuTextureFillRate": "0",
+            "supportsHdr": true,
+            "maySupportWakeOnLan": true,
+            "supportsMic": false,
+            "farFieldMic": false,
+            "maySupportBackgroundMode": false,
+            "supportsWirelessAudio": false,
+            "supportsIfa": false,
+            "supportsProfile2": true,
+            "supportsVp9": true,
+            "supportedVerticals": {
+                "ytmainVerticalAppMetadata": {
+                    "appStatus": "SUBMITTED",
+                    "cobaltConfig": {"evergreenType": "EVERGREEN_FULL"}
+                },
+                "ytvVerticalAppMetadata": {
+                    "appStatus": "DELETED",
+                    "cobaltConfig": {"evergreenType": "NON_EVERGREEN"}
+                },
+                "ytkidsVerticalAppMetadata": {
+                    "appStatus": "DELETED",
+                    "cobaltConfig": {"evergreenType": "NON_EVERGREEN"}
+                }
+            },
+            "supportsDab": true
+        }]
+    },
+    "validateOnly": false
+},
+{
+    "source": {
+      "deviceModels": [
+        {
+          "type": "TV",
+          "displayType": "OLED",
+          "outputResolution": "3840x2160",
+          "displayResolution": "3840x2160",
+          "viewportResolution": "3840x2160",
+          "orientationCapabilities": [
+            "LANDSCAPE"
+          ],
+          "maxFrameRate": "60",
+          "av1": "LEVEL_4_1",
+          "audioDecoders": [
+            "AAC_LC"
+          ],
+          "supportedUserInputMethods": [
+            "REMOTE"
+          ],
+          "accessibilityFeatures": [
+            "HIGH_CONTRAST"
+          ],
+          "voiceAssistants": [
+            "VOICE_ASSISTANT_AMAZON_ALEXA"
+          ],
+          "allocatedSystemStorage": "124",
+          "allocatedSystemMemory": "128",
+          "dialVersion": "VERSION_2_1",
+          "openGlEsVersion": "VERSION_2_0",
+          "widevineResourceRatingTier": "UNSUPPORTED_TIER",
+          "oemCryptoVersion": "UNSUPPORTED_OEM_CRYPTO_VERSION",
+          "hdcpVersion": "VERSION_2_2",
+          "hdmiInterfaceVersion": "VERSION_2_1",
+          "dmipsRating": "0",
+          "gpuPixelFillRate": "0",
+          "gpuTextureFillRate": "0",
+          "brand": "Samsung",
+          "model": "Funny",
+          "supportsHdr": true,
+          "maySupportWakeOnLan": true,
+          "supportsMic": false,
+          "farFieldMic": false,
+          "maySupportBackgroundMode": false,
+          "supportsWirelessAudio": false,
+          "supportsIfa": false,
+          "supportsProfile2": true,
+          "supportsVp9": true,
+          "supportedVerticals": {
+            "ytmainVerticalAppMetadata": {
+              "appStatus": "SUBMITTED",
+              "cobaltConfig": {
+                "evergreenType": "EVERGREEN_FULL"
+              }
+            },
+            "ytvVerticalAppMetadata": {
+              "appStatus": "DELETED",
+              "cobaltConfig": {
+                "evergreenType": "NON_EVERGREEN"
+              }
+            },
+            "ytkidsVerticalAppMetadata": {
+              "appStatus": "DELETED",
+              "cobaltConfig": {
+                "evergreenType": "NON_EVERGREEN"
+              }
+            }
+          },
+          "supportsDab": true
+        }
+      ]
+    },
+    "validateOnly": false
+  }
+    
+]
